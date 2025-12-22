@@ -16,7 +16,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🎓 About Me
 
+```python
+class Student:
+    def __init__(self):
+        self.name = "Augustin Aboc"
+        self.role = "College Student"
+        self.location = "Cabadbaran City/Philippines"
+        self.education = "Information Technology"
+        self.languages = ["HTML", "CSS", "JavaScript", "Python", "Java", "Dart"]
+        self.currently_learning = ["Web Development", "Mobile Apps"]
+        self.hobbies = ["Coding", "Gaming", "Music", "Reading", "Watching Videos"]
+
+me = Student()
+me.say_hi()
+```
+- 📫 Reach me at: abocaugustin@gmail.com
+
+## 🚀 Bird Class Identifier(Flutter App)
+
+<p align="justify">
+This application is designed to identify and classify different <strong>Bird Species</strong> using images. The main goal of the app is to help users easily recognize birds through a simple and user-friendly mobile interface built with Flutter.
+<br/><br/>
+The app can identify ten classes of birds, which include Crow, Eagle, Hummingbird, Owl, Parrot, Peacock, Penguin, Pigeon, Sparrow, and Swan. When a user selects or uploads an image of a bird, the application analyzes it and displays the bird’s class along with basic information.
+</p>
 
 ### Skills
 
