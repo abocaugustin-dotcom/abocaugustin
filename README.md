@@ -34,14 +34,6 @@ me.say_hi()
 ```
 - 📫 Reach me at: abocaugustin@gmail.com
 
-## 🚀 Bird Class Identifier(Flutter App)
-
-<p align="justify">
-This application is designed to identify and classify different <strong>Bird Species</strong> using images. The main goal of the app is to help users easily recognize birds through a simple and user-friendly mobile interface built with Flutter.
-<br/><br/>
-The app can identify ten classes of birds, which include Crow, Eagle, Hummingbird, Owl, Parrot, Peacock, Penguin, Pigeon, Sparrow, and Swan. When a user selects or uploads an image of a bird, the application analyzes it and displays the bird’s class along with basic information.
-</p>
-
 ### Skills
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -87,3 +79,83 @@ The app can identify ten classes of birds, which include Crow, Eagle, Hummingbir
 </picture>
 
 ###
+
+## 🚀 Current Project: Bird Class Identifier(Flutter App)
+
+<p align="justify">
+This application is designed to identify and classify different <strong>Bird Species</strong> using images. The main goal of the app is to help users easily recognize birds through a simple and user-friendly mobile interface built with Flutter.
+<br/><br/>
+The app can identify ten classes of birds, which include Crow, Eagle, Hummingbird, Owl, Parrot, Peacock, Penguin, Pigeon, Sparrow, and Swan. When a user selects or uploads an image of a bird, the application analyzes it and displays the bird’s class along with basic information.
+</p>
+
+---
+
+### 🧬 Bird Classes Overview
+
+Below is a quick overview of the mushroom classes that Fungi Scan can recognize, with a short description and a sample image for each class.
+
+<table>
+  <tr>
+    <th align="left">Class Name</th>
+    <th align="left">Description</th>
+    <th align="center">Sample Image</th>
+  </tr>
+  <tr>
+    <td><strong>Crow</strong></td>
+    <td>Intelligent black birds known for their problem-solving abilities and distinctive cawing sound.</td>
+    <td align="center"><img src="class_samples/Crow.jpg" alt="Crow" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Eagle</strong></td>
+    <td>Description
+Powerful birds of prey with excellent vision, symbolizing strength and freedom.</td>
+    <td align="center"><img src="class_samples/Eagle.jpg" alt="Eagle" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Hummingbird</strong></td>
+    <td>Tiny birds capable of hovering in flight, known for their rapid wing beats and iridescent colors.</td>
+    <td align="center"><img src="class_samples/Hummingbird.jpg" alt="Hummingbird" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Owl</strong></td>
+    <td>Nocturnal birds of prey with large eyes and the ability to rotate their heads significantly.</td>
+    <td align="center"><img src="class_samples/Owl.jpg" alt="Owl" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Parrot</strong></td>
+    <td>Colorful tropical birds known for their intelligence and ability to mimic human speech.</td>
+    <td align="center"><img src="class_samples/Parrot.jpg" alt="Parrot" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Peacock</strong></td>
+    <td>Large pheasants known for the male's spectacular tail feathers used in courtship displays.</td>
+    <td align="center"><img src="class_samples/Peacock.jpg" alt="Peacock" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Penguin</strong></td>
+    <td>Flightless aquatic birds adapted for life in the water, known for their distinctive waddle.</td>
+    <td align="center"><img src="class_samples/Penguin.jpg" alt="Penguin" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Pigeon</strong></td>
+    <td>Common urban birds found worldwide, known for their homing abilities and cooing sounds.</td>
+    <td align="center"><img src="class_samples/Pigeon.jpg" alt="Pigeon" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Sparrow</strong></td>
+    <td>Small, plump brown birds commonly found in urban and rural areas worldwide.</td>
+    <td align="center"><img src="class_samples/Sparrow.jpeg" alt="Sparrow" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Swan</strong></td>
+    <td>Elegant waterfowl known for their long necks and graceful swimming, symbolizing beauty and grace.</td>
+    <td align="center"><img src="class_samples/Swan.jpg" alt="Swan" width="90"/></td>
+  </tr>
+</table>
+
+---
+
+
+
+
+
