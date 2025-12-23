@@ -183,44 +183,56 @@ Powerful birds of prey with excellent vision, symbolizing strength and freedom.<
 
 ---
 
-### 🍄 Supported Fungi Classes
-
-Below are sample screens showing the fungi that Fungi Scan can classify:
+Below are sample screens showing the Birds that Bird Classifier can classify:
 
 <p align="center">
-  <img src="app_screenshots/Fly Agaric.jpg" alt="Fly Agaric" width="165"/>
-  <img src="app_screenshots/Morel.jpg" alt="Morel" width="165"/>
-  <img src="app_screenshots/Oyster.jpg" alt="Oyster" width="165"/>
-  <img src="app_screenshots/Chanterelle.jpg" alt="Chanterelle" width="165"/>
-  <img src="app_screenshots/Button.jpg" alt="Button" width="165"/>
+  <img src="app_screenshots/Swan.jpg" alt="Swan" width="165"/>
+  <img src="app_screenshots/Sparrow.jpg" alt="Sparrow" width="165"/>
+  <img src="app_screenshots/Penguin.jpg" alt="Penguin" width="165"/>
+  <img src="app_screenshots/Pigeon.jpg" alt="Pigeon" width="165"/>
+  <img src="app_screenshots/Parrot.jpg" alt="Parrot" width="165"/>
 </p>
 
 <p align="center">
-  <img src="app_screenshots/Reishi.jpg" alt="Reishi" width="165"/>
-  <img src="app_screenshots/Enoki.jpg" alt="Enoki" width="165"/>
-  <img src="app_screenshots/Black Trumpet.jpg" alt="Black Trumpet" width="165"/>
-  <img src="app_screenshots/Coral.jpg" alt="Coral" width="165"/>
-  <img src="app_screenshots/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="165"/>
+  <img src="app_screenshots/Eagle.jpg" alt="Eagle" width="165"/>
+  <img src="app_screenshots/Crow.jpg" alt="Crow" width="165"/>
+  <img src="app_screenshots/Hummingbird.jpg" alt="Hummingbird" width="165"/>
+  <img src="app_screenshots/Peacock.jpg" alt="Peacock" width="165"/>
+  <img src="app_screenshots/Owl.jpg" alt="Owl" width="165"/>
 </p>
 
 
-### 📷 Capture or Upload Images & ✅ Scan Result
+### 📷 Capture or Upload Images
 
 <table>
   <tr>
     <td align="center">
       <strong>Capture or Upload Images</strong><br/>
       <img src="app_screenshots/Camera.jpg" alt="Camera Page" width="200"/>
-      <img src="app_screenshots/Upload.jpg" alt="Upload Page" width="200"/><br/>
+      <img src="app_screenshots/Gallery.jpg" alt="Gallery Page" width="200"/><br/>
       <sub>Users can either take a new photo using the camera or upload an existing image from their device. These images are then sent to the model for fungi classification.</sub>
-    </td>
-    <td align="center">
-      <strong>Scan Result</strong><br/>
-      <img src="app_screenshots/Result.jpg" alt="Result Page" width="200"/><br/>
-      <sub>After a scan, the Result screen shows the predicted fungi class along with confidence percentages, so users can see how likely each class is.</sub>
     </td>
   </tr>
 </table>
+
+---
+
+### 📈 Analytics, Detections per Class & 🕒 Scan History
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Charts</strong><br/>
+      <img src="app_screenshots/Chart1.jpg" alt="Chart1" width="200"/>
+      <img src="app_screenshots/Chart2.jpg" alt="Chart2" width="200"/><br/>
+      <sub>The Chart summarizes how the app is being used, including how many detections each fungi class has. The Detections per Class chart visualizes how often each type of bird has been classify.</sub>
+    </td>
+    <td align="center">
+      <strong>History</strong><br/>
+      <img src="app_screenshots/History.jpg" alt="History Page" width="200"/><br/>
+      <sub>The History page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Bird Classifier.</sub>
+    </td>
+  </tr>
 
 
 
