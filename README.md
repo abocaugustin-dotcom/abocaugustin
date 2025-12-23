@@ -154,6 +154,64 @@ Powerful birds of prey with excellent vision, symbolizing strength and freedom.<
 
 ---
 
+### 🏠 Home Page & 📖 Bird Description
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Home Page</strong><br/>
+      <img src="app_screenshots/Homepage.jpg" alt="Home Page" width="200"/><br/>
+      <sub></sub>
+    </td>
+    <td align="center">
+      <strong>Bird Description</strong><br/>
+      <img src="app_screenshots/Crow.jpg" alt="Bird Description" width="200"/><br/>
+      <sub></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🍄 Supported Fungi Classes
+
+Below are sample screens showing the fungi that Fungi Scan can classify:
+
+<p align="center">
+  <img src="app_screenshots/Fly Agaric.jpg" alt="Fly Agaric" width="165"/>
+  <img src="app_screenshots/Morel.jpg" alt="Morel" width="165"/>
+  <img src="app_screenshots/Oyster.jpg" alt="Oyster" width="165"/>
+  <img src="app_screenshots/Chanterelle.jpg" alt="Chanterelle" width="165"/>
+  <img src="app_screenshots/Button.jpg" alt="Button" width="165"/>
+</p>
+
+<p align="center">
+  <img src="app_screenshots/Reishi.jpg" alt="Reishi" width="165"/>
+  <img src="app_screenshots/Enoki.jpg" alt="Enoki" width="165"/>
+  <img src="app_screenshots/Black Trumpet.jpg" alt="Black Trumpet" width="165"/>
+  <img src="app_screenshots/Coral.jpg" alt="Coral" width="165"/>
+  <img src="app_screenshots/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="165"/>
+</p>
+
+
+### 📷 Capture or Upload Images & ✅ Scan Result
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Capture or Upload Images</strong><br/>
+      <img src="app_screenshots/Camera.jpg" alt="Camera Page" width="200"/>
+      <img src="app_screenshots/Upload.jpg" alt="Upload Page" width="200"/><br/>
+      <sub>Users can either take a new photo using the camera or upload an existing image from their device. These images are then sent to the model for fungi classification.</sub>
+    </td>
+    <td align="center">
+      <strong>Scan Result</strong><br/>
+      <img src="app_screenshots/Result.jpg" alt="Result Page" width="200"/><br/>
+      <sub>After a scan, the Result screen shows the predicted fungi class along with confidence percentages, so users can see how likely each class is.</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
