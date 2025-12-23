@@ -42,7 +42,8 @@ me.say_hi()
 
 #### Connect with me
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@abuki.84?_r=1&_t=ZS-92S66dhyn7X) !
+[![Facebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://web.facebook.com/augustin.abociii/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@abuki.84?_r=1&_t=ZS-92S66dhyn7X) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augs.10?igsh=MWZiZmNibmpuZHdwdQ==)
 
 ##### My Github Stats 
