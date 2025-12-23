@@ -168,6 +168,16 @@ Powerful birds of prey with excellent vision, symbolizing strength and freedom.<
       <img src="app_screenshots/Crow.jpg" alt="Bird Description" width="200"/><br/>
       <sub></sub>
     </td>
+      <td align="center">
+      <strong>Bird Description</strong><br/>
+      <img src="app_screenshots/Eagle.jpg" alt="Bird Description" width="200"/><br/>
+      <sub></sub>
+    </td>
+      <td align="center">
+      <strong>Bird Description</strong><br/>
+      <img src="app_screenshots/Peacock.jpg" alt="Bird Description" width="200"/><br/>
+      <sub></sub>
+    </td>
   </tr>
 </table>
 
