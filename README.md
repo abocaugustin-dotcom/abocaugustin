@@ -68,8 +68,6 @@ me.say_hi()
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
