@@ -42,7 +42,7 @@ me.say_hi()
 #### Connect with me
 
 ![https://www.instagram.com/augs.10/?igsh=MWZiZmNibmpuZHdwdQ%3D%3D#](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@augustinaboc1349?si=F4e2RxV8keFN9Tyc) !
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@augustinaboc1349?si=F4e2RxV8keFN9Tyc)
 [https://www.tiktok.com/@abuki.84?_r=1&_t=ZS-91xrIm127Wh](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.facebook.com/augustin.abociii/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 ##### My Github Stats 
