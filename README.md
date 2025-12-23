@@ -101,7 +101,7 @@ Below is a quick overview of the mushroom classes that Fungi Scan can recognize,
   <tr>
     <td><strong>Crow</strong></td>
     <td>Intelligent black birds known for their problem-solving abilities and distinctive cawing sound.</td>
-    <td align="center"><img src="class_samples/Crow.jpg" alt="Crow" width="90"/></td>
+    <td align="center"><img src="class_samples(final)/Crow.jpg" alt="Crow" width="90"/></td>
   </tr>
   <tr>
     <td><strong>Eagle</strong></td>
