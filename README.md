@@ -142,7 +142,7 @@ Powerful birds of prey with excellent vision, symbolizing strength and freedom.<
   <tr>
     <td><strong>Sparrow</strong></td>
     <td>Small, plump brown birds commonly found in urban and rural areas worldwide.</td>
-    <td align="center"><img src="class_samples(final)/Sparrow.jpeg" alt="Sparrow" width="90"/></td>
+    <td align="center"><img src="class_samples(final)/Sparrow.jpg" alt="Sparrow" width="90"/></td>
   </tr>
   <tr>
     <td><strong>Swan</strong></td>
