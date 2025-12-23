@@ -24,9 +24,9 @@ class Student:
     def __init__(self):
         self.name = "Augustin Aboc"
         self.role = "College Student"
-        self.location = "Cabadbaran City/Philippines"
+        self.location = "Buenavista/Agusan del Norte/Philippines"
         self.education = "Information Technology"
-        self.languages = ["HTML", "CSS", "JavaScript", "Python", "Java", "Dart"]
+        self.languages = ["HTML", "CSS", "JavaScript", "Python", "Java"]
         self.currently_learning = ["Web Development", "Mobile Apps"]
         self.hobbies = ["Coding", "Gaming", "Music", "Reading", "Watching Videos"]
 
